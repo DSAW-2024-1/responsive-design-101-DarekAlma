@@ -8,7 +8,7 @@ LINK DE LA PAGINA: https://dsaw-2024-1.github.io/responsive-design-101-DarekAlma
 
 ### IMAGENES 320PX 480PX
 
-![1](./assets/images/320px480px 1.jpg)
+![1](assets/images/320px480px 1.jpg)
 
 ![2](./assets/images/320px480px 2.jpg)
 
