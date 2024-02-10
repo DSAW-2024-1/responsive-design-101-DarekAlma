@@ -14,6 +14,9 @@ LINK DE LA PAGINA: https://dsaw-2024-1.github.io/responsive-design-101-DarekAlma
 
 ![3](./assets/images/320px480px3.jpg)
 
+![3.5](./assets/images/320px480px4.jpg)
+
+
 ### IMAGENES 768X 1024PX
 
 ![4](./assets/images/768px1024px1.jpg)
